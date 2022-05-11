@@ -1,0 +1,29 @@
+$color-text-default: #424954;
+$color-text-light: #EBEBEB;
+$color-text-muted: #989898;
+
+
+$color-secodary: #8465d9;
+$color-danger: #e83043;
+$color-info: #3dc123;
+$color-pimary: #cfff32;
+$color-warning: #ffb62f;
+
+
+$font-family-primary:     Roboto, 'Open Sans', Helvetica Neue, sans-serif;
+$font-family-secondary:  Georgia, Times New Roman;
+$font-family-monospace:  Menlo, Consolas, monospace;
+$font-family: $font-family-primary;
+
+
+$font-size-base:    .8rem;
+$font-size-large:    1.2rem;
+$font-size-small:    .5rem;
+
+
+$font-size-h1:         2.2rem;
+$font-size-h2:         1.9rem;
+$font-size-h3:         1.5rem;
+$font-size-h4:         $font-size-large;
+$font-size-h5:         $font-size-base;
+$font-size-h6:         $font-size-small;

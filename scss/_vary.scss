@@ -1,0 +1,43 @@
+$muco: purple;
+$nuco-muco: orange;
+$mocu_nico: indigo;
+
+$wom: women-of-the-marvel-universe;
+
+#{$wom} {content: "#{wom}";}
+
+.#{$wom}-cape {background-color: $color-pimary;}
+
+.#{$wom}-text {color: $color-secodary;
+    font-family: $font-family-primary;
+    font-size: $font-size-large;
+}
+
+img {border: 0.5rem dotted $color-text-default;}
+
+
+.mina {
+    $renca: maroon;
+    color: $renca;
+    border: .5rem solid $renca;
+    font-size: $font-size-base;
+    font-family: $font-family-monospace;
+}
+
+.fir {
+    display: inline-block;
+    height: 5rem;
+    width: 5rem;
+    background-color: $nuco-muco;
+    position: relative;
+    z-index: -2;
+}
+
+.sec {
+    display: inline-block;
+    height: 5rem;
+    width: 5rem;
+    background-color: $mocu_nico;
+    margin-left: -2rem;
+    
+}
